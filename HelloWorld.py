@@ -1,0 +1,1 @@
+print("Hello World")  #"" Shows the text in console
